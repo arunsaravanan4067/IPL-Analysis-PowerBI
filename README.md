@@ -1,7 +1,8 @@
 # 🏏 𝗜𝗣𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 ### 📊 𝟮𝟬𝟬𝟴 — 𝟮𝟬𝟮𝟱 | 𝗣𝗢𝗪𝗘𝗥 𝗕𝗜
 
----
+ 📊 Interactive Power BI Dashboard for IPL Statistics and Performance Analysis
+
 
 ## ✨ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
 
