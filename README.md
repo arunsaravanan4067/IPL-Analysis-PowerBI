@@ -3,6 +3,9 @@
 
  📊 Interactive Power BI Dashboard for IPL Statistics and Performance Analysis
 
+<p align="center">
+  <img src="IPL%20DASHBOARD.PNG" alt="IPL Analysis Power BI Dashboard" width="100%">
+</p>
 
 ## ✨ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
 
