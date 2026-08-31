@@ -81,9 +81,7 @@ The main objective of this project is to analyse historical IPL data and transfo
 
 The dataset used in this project contains IPL-related historical information, including season details, teams, matches, winners, runners-up, Orange Cap holders, Purple Cap holders, fours, sixes, and player statistics.
 
-> 💡 **Note:** The dataset is optional and can be included separately for users who want to reproduce or modify the analysis.
 
----
 
 ## 🎨 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
 
